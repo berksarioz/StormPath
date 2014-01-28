@@ -7,7 +7,7 @@ public class Test {
 
 		  // Scanner used to imitate user input interaction
 		  Scanner scanner = new Scanner(System.in);
-		  System.out.print("Enter a password:\t");
+		  System.out.print("Enter password:\t");
 		  String password = scanner.nextLine();
 
 //		  String password = ""; un-comment and set password here efficiently
