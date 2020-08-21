@@ -6,6 +6,7 @@
  * PART 2: Check if there is any rejected pattern in the password
  * PART 3: Check if the password has desired traits
  * PART 4: Password is good enough
+ * PART 5: A8:0C:B1:F4:1F:9F:5C:9A:90
  */
 package password;
 
