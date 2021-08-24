@@ -7,6 +7,7 @@
  * PART 3: Check if the password has desired traits
  * PART 4: Password is good enough
  * PART 5: A8:0C:B1:F4:1F:9F:5C:9A:90
+ * PART 6: C2:F0:98:1M:A4:4R:4Y:Z7:1X
  */
 package password;
 
