@@ -8,6 +8,7 @@
  * PART 4: Password is good enough
  * PART 5: A8:0C:B1:F4:1F:9F:5C:9A:90
  * PART 6: C2:F0:98:1M:A4:4R:4Y:Z7:1X
+ * PART 7 MSG: C9:F2:56:9M:A5:1R:8Y:Z8:8X
  */
 package password;
 
