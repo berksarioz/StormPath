@@ -57,13 +57,3 @@ public class PasswordValidator {
 		return "Password looking great!";	  
     }
 }
-
-
-
-
-/* 
- * A8:0C:B1:F4:1F:9F:5C:9A:90
- * C2:F0:98:1M:A4:4R:4Y:Z7:1X
- * C9:F2:56:9M:A5:1R:8Y:Z8:8X
- * 16YODAY-Z 6A:B6:9V:T2:6Z:M3:X3:Y7:Z3:B6
- */
